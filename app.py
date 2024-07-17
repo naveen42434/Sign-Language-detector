@@ -16,7 +16,7 @@ def absdiff(img1, img2):
     return absdiff
 
 
-st.title("Video File Processing")
+st.title("Sign Language Detector")
 run = st.checkbox('Run')
 FRAME_WINDOW = st.image([])
 
